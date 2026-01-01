@@ -40,3 +40,6 @@ Java’s built-in threading support is used to handle multiple clients concurren
 
 GitHub
 GitHub is used for version control and project sharing. It helps in maintaining source code history, collaboration, and showcasing the project for academic or professional purposes.
+
+*OUTPUT*
+<img width="985" height="478" alt="Image" src="https://github.com/user-attachments/assets/2af0afc9-160b-4660-b44c-bc1dc2bfa1d7" />
